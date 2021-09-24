@@ -1,3 +1,6 @@
+
+Chapter: git hub version control. 
+
 git init
 git add 
 git add .
@@ -8,3 +11,8 @@ git diff
 git diff   `filename`
 git checkout `filename`
 git checkout  `.`
+
+chapter 3: git hub and new repository
+
+git remote add origin `link of github file`
+git push -u origin master
